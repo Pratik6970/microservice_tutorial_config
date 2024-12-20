@@ -1,3 +1,6 @@
+spring:
+application:
+name: MICROG_CONFIGSERVER
 
 eureka:
   instance:
